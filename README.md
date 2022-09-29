@@ -1,8 +1,8 @@
 <h1>About me </h1>
-- 🏢 Estudando Desenvolimento web fullstack com a @trybe
-- ⚙️ Uso diariamente: `.js`, `.html`, `.css`,`nodeJs`,`mysql`
-- 🌱 Aprendendo: about **Web development**
-- 💬 Posso falar por horas sobre: tecnologia,livros,series,esportes
+- 🏢 Estudando Desenvolimento web fullstack com a @trybe <br>
+- ⚙️ Uso diariamente: `.js`, `.html`, `.css`,`nodeJs`,`mysql`<br>
+- 🌱 Aprendendo: about **Web development**<br>
+- 💬 Posso falar por horas sobre: tecnologia,livros,series,esportes<br>
 - 📫 Fale comigo em: https://www.linkedin.com/in/raphaelalmeidademorais/ , email: raphaelmoraisdev@gmail.com
 <br>
 <h2>My github status /  meus status do github</h2>
