@@ -1,5 +1,5 @@
 <h1>About me </h1>
-- 🏢 Estudando Desenvolimento web fullstack com a @trybe <br>
+- 🏢 Estudando Desenvolimento web fullstack
 - ⚙️ Uso diariamente: `.js`, `.html`, `.css`,`nodeJs`,`mysql`<br>
 - 🌱 Aprendendo:Desenvolvimento web <br>
 - 💬 Posso falar por horas sobre: tecnologia,livros,series,esportes<br>
