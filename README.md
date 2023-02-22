@@ -1,7 +1,7 @@
 <h1>About me </h1>
-- 🏢 Estudando Desenvolimento web fullstack
-- ⚙️ Uso diariamente: `.js`, `.html`, `.css`,`nodeJs`,`mysql`<br>
-- 🌱 Aprendendo:Desenvolvimento web <br>
+- 🏢 Estudando java
+- ⚙️ Uso diariamente: java
+- 🌱 participando o bootcamp JAVA do banco pan  <br>
 - 💬 Posso falar por horas sobre: tecnologia,livros,series,esportes<br>
 - 📫 Fale comigo em: https://www.linkedin.com/in/raphaelalmeidademorais/ , email: raphaelmoraisdev@gmail.com
 <br>
