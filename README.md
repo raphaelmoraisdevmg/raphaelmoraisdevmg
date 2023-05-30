@@ -1,7 +1,7 @@
 <h1>About me </h1>
 - 🏢 Estudando java<br>
 - ⚙️ Uso diariamente: java<br>
-- 🌱 participando o bootcamp JAVA do banco pan  <br>
+- 🌱 estudando tecnologias web na dio.me <br>
 - 💬 Posso falar por horas sobre: tecnologia,livros,series,esportes<br>
 - 📫 Fale comigo em: https://www.linkedin.com/in/raphaelalmeidademorais/ , email: raphaelmoraisdev@gmail.com
 <br>
